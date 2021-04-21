@@ -12,6 +12,8 @@
 - git add . // add all the files/folders for tracking
 - git commit -m "message"
 - git log // to list all the commands
+- git checkout commitid -> You will go to that version
+- git checkout main -> to react latest commit
 
 ### Create a repo on github
 
