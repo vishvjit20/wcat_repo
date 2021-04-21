@@ -1,0 +1,12 @@
+File system
+Promise example
+Callback example
+Synchronous example
+Promises API
+Class: FileHandle
+Event: 'close'
+filehandle.appendFile(data[, options])
+filehandle.chmod(mode)
+filehandle.chown(uid, gid)
+filehandle.close()
+filehandle.da
